@@ -1,3 +1,5 @@
+const getCircleArea = require("./7")
+
 function getCircleAreas(radiusArr) {
   var areasArr = [];
 
